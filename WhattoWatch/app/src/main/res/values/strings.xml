@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">What to Watch</string>
+
+    <string name="choose">Choose</string>
+    <string name="genre">Genre</string>
+
+    <string-array name="choose_genre">
+        <item>comedy</item>
+        <item>fantasy</item>
+        <item>horror</item>
+        <item>fantastic</item>
+        <item>crime</item>
+    </string-array>
+</resources>
